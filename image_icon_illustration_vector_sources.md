@@ -24,3 +24,7 @@ Below you can find a list of opens source sources I use for development**
 | https://feathericons.com/ | MIT License |
 | https://materialdesignicons.com/  |  https://dev.materialdesignicons.com/license |
 | https://material.io/tools/icons/?style=baseline | Apache License v2.0 |
+| https://github.com/adrianmg/pictogramas | MIT License |
+| https://github.com/primer/octicons#libraries | MIT License |
+| https://iconmonstr.com/license/ | https://iconmonstr.com/license/ |
+| https://ionicons.com/ | MIT License |
