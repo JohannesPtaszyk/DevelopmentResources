@@ -1,7 +1,7 @@
 # Resources 
 ## Images, Icon, SVGs, Illustrations
 
-** In this repository I collect all sorts of different images, icons and other resources to build more beautiful UIs.
+**In this repository I collect all sorts of different images, icons and other resources to build more beautiful UIs.
 Below you can find a list of opens source sources I use for development**
 
 ### Images
