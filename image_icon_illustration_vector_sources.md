@@ -28,3 +28,9 @@ Below you can find a list of opens source sources I use for development**
 | https://github.com/primer/octicons#libraries | MIT License |
 | https://iconmonstr.com/license/ | https://iconmonstr.com/license/ |
 | https://ionicons.com/ | MIT License |
+| https://simpleicons.org/ | CC0 1.0 Universal |
+| https://github.com/SamHerbert/SVG-Loaders | MIT License |
+### Libraries
+#### Android
+| Link | License |
+| https://github.com/mikepenz/Android-Iconics | Apache License v2.0 |
