@@ -33,4 +33,7 @@ Below you can find a list of opens source sources I use for development**
 ### Libraries
 #### Android
 | Link | License |
+|:--|:--|
 | https://github.com/mikepenz/Android-Iconics | Apache License v2.0 |
+| https://github.com/edent/SuperTinyIcons | MIT License |
+| https://leungwensen.github.io/svg-icon/ | MIT License |
